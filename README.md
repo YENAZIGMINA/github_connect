@@ -43,9 +43,10 @@
             git init
         * 추가할 파일(폴더안의 내용을 모두 올림)
             git add .
-        * 히스토리 만들기 (-m 은 메시지를 의미 "" 안에는 히스토리 이름을 ㅈ거음)
-          git commit -m "first commit"
-          
-        *Github의 repositkory를 만들고 그 주소와 연결하기
-          git remote add origin http://~
-        
+        * 히스토리 만들기 (-m 은 메시지를 의미함 ""안에는 히스토리 이름을 작성)
+            git commit -m "first commit(한글도 가능)"
+        * Github의 repository를 만들고 그 곳에 만든 주소를 넣는다
+            git remote add origin https://github.com/YENAZIGMINA/cssGit_flex.git
+        * 연결이 잘 되었는지 확인하기 (사용안해도 됨)
+            git remote -v
+            
