@@ -4,6 +4,8 @@
 ##💐 1. 깃설치 🐠 (http://git-scm.com.download/win)
 
     git을 통해서 github와 연결할 수 있다.
+    
+![image](https://user-images.githubusercontent.com/129706758/235424480-723c221d-9e59-4ea5-99e0-891296b35f5b.png)
 
 
 -깃에 올려야 할 폴더에 shift + 우클릭하여 PowerShell 창열기
