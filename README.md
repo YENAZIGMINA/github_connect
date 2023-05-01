@@ -43,3 +43,9 @@
             git init
         * 추가할 파일(폴더안의 내용을 모두 올림)
             git add .
+        * 히스토리 만들기 (-m 은 메시지를 의미 "" 안에는 히스토리 이름을 ㅈ거음)
+          git commit -m "first commit"
+          
+        *Github의 repositkory를 만들고 그 주소와 연결하기
+          git remote add origin http://~
+        
