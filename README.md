@@ -19,5 +19,10 @@
 
 ![image](https://user-images.githubusercontent.com/129706758/235417846-8085469b-44e8-4b55-a01f-a7ea15741740.png)
 
+* 유저 이름 설정하기
+
 $ git config --global user.name"lee yena"
 
+* 유저 이메일 설정하기 (반드시 github에 가입했던 이메일 주소와 동일해야 한다.)
+
+$ git config --global user.email "leeyena4724@naver.com"
