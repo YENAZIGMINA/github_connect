@@ -1,7 +1,7 @@
 # github_connect
 
 
-##💐 깃설치 🐠 (http://git-scm.com.download/win)
+##💐 1. 깃설치 🐠 (http://git-scm.com.download/win)
 
     git을 통해서 github와 연결할 수 있다.
 
@@ -13,5 +13,11 @@
     
 - .git 폴더가 생성됨
 
+------------------------------------------------------------
 
-###
+##💐 2. 깃설치 후 Git bash 열기 🐠
+
+![image](https://user-images.githubusercontent.com/129706758/235417846-8085469b-44e8-4b55-a01f-a7ea15741740.png)
+
+$ git config --global user.name"lee yena"
+
