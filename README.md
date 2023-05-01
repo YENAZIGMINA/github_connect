@@ -21,8 +21,17 @@
 
 * 유저 이름 설정하기
 
-$ git config --global user.name"lee yena"
+            git config --global user.name"lee yena"
 
 * 유저 이메일 설정하기 (반드시 github에 가입했던 이메일 주소와 동일해야 한다.)
 
-$ git config --global user.email "leeyena4724@naver.com"
+            git config --global user.email "leeyena4724@naver.com"
+
+* 내 정보 확인하기
+
+            git config --list
+            
+
+
+## 위 연결은 해당 컴퓨터에서 한번만 실행하면 됨
+----------------------------------------------------
