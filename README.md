@@ -51,4 +51,7 @@
             git remote add origin https://github.com/YENAZIGMINA/cssGit_flex.git
         * 연결이 잘 되었는지 확인하기 (사용안해도 됨)
             git remote -v
-            
+  
+  ![image](https://user-images.githubusercontent.com/129706758/235424941-d5852250-4f2d-4b06-8e4b-a79ba8a89b64.png)
+
+ 
