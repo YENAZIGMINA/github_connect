@@ -62,7 +62,7 @@
   
   ## 수정하여 다시 업로드 할 때
   
- 1. 기존의 코드를 다운받아야 한다. (무조건) git pull origin master 
+ 1. 기존의 코드를 다운받아야 한다. (무조건)
  
         git init
         
@@ -71,13 +71,3 @@
         git commit -m "update"
         
         git push origin master
-  
-       
-        
- 2. 다시 push 해야한다.
- 
-        git push origin master
-        
-  
-
- 
