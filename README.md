@@ -63,6 +63,8 @@
   ## 수정하여 다시 업로드 할 때
   
  1. 기존의 코드를 다운받아야 한다. (무조건)
+
+        git pull origin master
  
         git init
         
