@@ -99,4 +99,9 @@
    
        >git push origin 브랜치이름
        git push origin LEE
+       
+       
+ 업로드 후 수정사항 메모
+![image](https://github.com/YENAZIGMINA/github_connect/assets/129706758/db65fb9d-d534-462f-854a-78e58e0dce62)
+
 
