@@ -88,7 +88,7 @@
 
    경로찾은 후,
    
-   git checkout -b LEE
+   git checkout -b LEE()
    
    git add .
    
