@@ -62,6 +62,8 @@
   
   ## 수정하여 다시 업로드 할 때
   
+  #사원입장 ----------------------------------------
+  
  1. 기존의 코드를 다운받아야 한다. (무조건)
 
         git pull origin master
@@ -80,17 +82,17 @@
 
 1. 소스코드 다운로드
  
-   (git clone 주소넣기)
+       (git clone 주소넣기)
    
-   git clone https://github.com/YENAZIGMINA/Hanacard.git
+        git clone https://github.com/YENAZIGMINA/Hanacard.git
    
 2. 브랜치 만들기
 
-   경로찾은 후,
+       경로찾은 후,
    
-   git checkout -b LEE()
+       git checkout -b LEE()
    
-   git add .
+       git add .
    
    git commit -m "신입이예나(메모내용)"
    
