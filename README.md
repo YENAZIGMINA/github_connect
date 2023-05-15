@@ -73,3 +73,26 @@
         git commit -m "update"
         
         git push origin master
+        
+-------------------------------------------------
+
+# GitHUB 협업하는 방법
+
+1. 소스코드 다운로드
+ 
+   (git clone 주소넣기)
+   
+   git clone https://github.com/YENAZIGMINA/Hanacard.git
+   
+2. 브랜치 만들기
+
+   경로찾은 후,
+   
+   git checkout -b LEE
+   
+   git add .
+   
+   git commit -m "신입이예나(메모내용)"
+   
+   git push origin LEE
+
