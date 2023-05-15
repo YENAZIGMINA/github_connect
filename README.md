@@ -90,7 +90,7 @@
 
        경로찾은 후,
             
-       git checkout -b 브랜치이름     
+       >git checkout -b 브랜치이름     
    
        git checkout -b LEE
    
@@ -98,7 +98,7 @@
    
        git commit -m "신입이예나(메모내용)"
    
-       git push origin 브랜치이름
+       >git push origin 브랜치이름
        
        git push origin LEE
 
