@@ -105,3 +105,9 @@
 ![image](https://github.com/YENAZIGMINA/github_connect/assets/129706758/db65fb9d-d534-462f-854a-78e58e0dce62)
 
 
+
+직원이 수정사항 업로드하는 과정
+![image](https://github.com/YENAZIGMINA/github_connect/assets/129706758/c4773104-e568-4246-a3cf-9e1bff61d041)
+
+
+
