@@ -2,6 +2,7 @@
 
 
 ##💐 1. 깃설치 🐠 (http://git-scm.com.download/win)
+(설치 참고사이트 - https://taewow.tistory.com/13)
 
     git을 통해서 github와 연결할 수 있다.
     
